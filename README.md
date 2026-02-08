@@ -1,3 +1,5 @@
+{
+
 // Basic Information
 valentineName: "Athina"                    // Your Valentine's name
 pageTitle: "Will You Be My Valentine? 💝" // Browser tab title
