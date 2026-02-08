@@ -83,8 +83,8 @@ loveMessages: {
 
 // Final Celebration
 celebration: {
-    title: "Yay! I'm the luckiest person...",     // Celebration title
-    message: "ok, now open this link",          // Celebration message
+    title: "ok, dapat lang",     // Celebration title
+    message: "ask me for the qr",          // Celebration message
     emojis: "🎁💖🤗💝💋❤️💕"                        // Celebration emojis
 }
 
